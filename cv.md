@@ -25,6 +25,7 @@ I'm a frontend developer who never stops coding. I set goals for myself, in the 
 * TypeScript
 * Redux, RTK
 * Adaptive layout
+* React
 
 ## Code Example
 ---
