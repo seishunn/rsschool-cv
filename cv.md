@@ -62,9 +62,7 @@ Responsibilities and achievements
 - Adding new functionality, working with RestAPI.
 - Improving the functionality of the client side.   
   
-Stack:
-JavaScript, TypeScript, RESTful API, React, Redux, Node.js, Веб-
-разработка
+Stack: JavaScript, TypeScript, RESTful API, React, Redux, Node.js.
 
 ## Education
 ---
